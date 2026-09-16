@@ -1,0 +1,33 @@
+{
+  "optimal_threshold": 0.44000000000000006,
+  "feature_cols": [
+    "age",
+    "over_60_years_old",
+    "under_12_years_old",
+    "patient_needs_companion",
+    "average_temp_day",
+    "rainy_day_before",
+    "storm_day_before",
+    "day_of_week",
+    "month_num",
+    "gender_F",
+    "gender_I",
+    "gender_M",
+    "appointment_shift_afternoon",
+    "appointment_shift_morning",
+    "rain_intensity_heavy",
+    "rain_intensity_moderate",
+    "rain_intensity_no_rain",
+    "rain_intensity_weak",
+    "heat_intensity_cold",
+    "heat_intensity_heavy_cold",
+    "heat_intensity_heavy_warm",
+    "heat_intensity_mild",
+    "heat_intensity_warm",
+    "age_group_Adult",
+    "age_group_Child",
+    "age_group_Senior"
+  ],
+  "no_show_rate": 0.09743310547859577,
+  "model_roc_auc": 0.7100645676906245
+}
